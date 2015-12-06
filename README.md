@@ -138,3 +138,4 @@ License
  [8]: http://developer.android.com/guide/developing/projects/projects-eclipse.html#ReferencingLibraryProject
  [9]: https://raw.github.com/JakeWharton/Android-ViewPagerIndicator/master/sample/screens.png
  [10]: https://play.google.com/store/apps/details?id=com.viewpagerindicator.sample
+ [11]: http://google.com
